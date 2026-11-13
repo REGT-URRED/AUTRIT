@@ -1,0 +1,25 @@
+COMO USAR EL TRANSCRIPTOR (GUIA SUPER SIMPLE)
+=============================================
+
+NO NECESITAS SABER NADA TECNICO NI INSTALAR NADA A MANO.
+El programa detecta automaticamente si tu computadora tiene Tarjeta de Video (GPU)
+o si solo tiene Procesador normal (CPU), instala todo solo la primera vez y elige
+el modelo de Inteligencia Artificial ideal para que tu PC no se trabe.
+
+TIENES 3 FORMAS FACILES DE USARLO:
+----------------------------------
+
+OPCION A (Solo haciendo doble clic):
+1. Haz doble clic en "TRANSCRIBIR.bat".
+2. Si no tocas nada, en unos segundos se abrira una ventana normal de Windows
+   para que selecciones tu video o audio (igual que cuando adjuntas un archivo).
+3. Al terminar, se abrira sola la carpeta "salidas" con tu texto listo.
+
+OPCION B (Copiando a la carpeta "audio"):
+1. Mete tus videos o audios dentro de la carpeta "audio".
+2. Haz doble clic en "TRANSCRIBIR.bat".
+3. El programa transcribira todos los archivos de esa carpeta automaticamente.
+
+OPCION C (Arrastrando el archivo):
+1. Arrastra cualquier video o audio con el mouse y sueltalo encima de "TRANSCRIBIR.bat".
+2. El programa hara todo solo y abrira la carpeta "salidas" al finalizar.

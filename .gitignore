@@ -1,0 +1,27 @@
+# Entornos virtuales locales
+.venv_win/
+.venv_wsl/
+venv/
+.venv/
+
+# Modelos descargados y configuracion local de cada PC
+modelos/*
+!modelos/.gitkeep
+transcriptor_config.json
+
+# Archivos multimedia de usuario y salidas generadas
+audio/*
+!audio/.gitkeep
+salidas/*
+!salidas/.gitkeep
+
+# Claves privadas
+deepgram.key
+*.key
+
+# Cache de Python y archivos temporales del sistema
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
